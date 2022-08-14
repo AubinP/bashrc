@@ -173,4 +173,3 @@ then
 	# $ ou #
 	export PS1+='\n\[\033[0m\]\$ '
 fi
-
